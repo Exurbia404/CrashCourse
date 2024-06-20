@@ -1,0 +1,7 @@
+C:\Users\tomvh\Documents\School\S5 - Internship\Proof of Concepts\CrashCourse\obj\Debug\CrashCourse.csproj.AssemblyReference.cache
+C:\Users\tomvh\Documents\School\S5 - Internship\Proof of Concepts\CrashCourse\obj\Debug\CrashCourse.csproj.CoreCompileInputs.cache
+C:\Users\tomvh\Documents\School\S5 - Internship\Proof of Concepts\CrashCourse\bin\Debug\CrashCourse.exe.config
+C:\Users\tomvh\Documents\School\S5 - Internship\Proof of Concepts\CrashCourse\bin\Debug\CrashCourse.exe
+C:\Users\tomvh\Documents\School\S5 - Internship\Proof of Concepts\CrashCourse\bin\Debug\CrashCourse.pdb
+C:\Users\tomvh\Documents\School\S5 - Internship\Proof of Concepts\CrashCourse\obj\Debug\CrashCourse.exe
+C:\Users\tomvh\Documents\School\S5 - Internship\Proof of Concepts\CrashCourse\obj\Debug\CrashCourse.pdb
