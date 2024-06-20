@@ -37,6 +37,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ActionItem.cs" />
+    <Compile Include="Examples.cs" />
     <Compile Include="Priority.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="ToDoListForm.cs">
